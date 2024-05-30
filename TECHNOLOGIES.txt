@@ -1,0 +1,23 @@
+1. kinde ==> for authentication
+2. shadcn ==> for design/ui
+3. nextjs ==> for frontend
+4. vercel ==> for sql database hosting and deployment
+5. tailwindcss ==> for styling
+6. lucide ==> for icons
+7. drizzle ORM ==> for sql database management  [sab kuch youtube tutorial on how to connect and docs]
+8. React Hook Form ==> to handle forms
+9. axios ==> for api calls
+10. ag grid react ==> to display student list table and graph
+
+//STEP BY STEP TUTORIAL
+
+STEP 1 ==> authentication using kinde
+STEP 2 ==> ui design using shadcn (Dark Mode)
+STEP 3 ==> frontend using nextjs (sidebar + header) using lucide icons
+STEP 4 ==> sql database hosting and deployment using vercel and DRIZZLE
+STEP 5 ==> Adding students using react hook form
+STEP 6 ==> api calls using axios in _services/GlobalApi.js
+STEP 7 ==> display student list table using ag grid (FILTER,Pagination,search option is coming from the library)
+STEP 8 ==> delete student record
+STEP 9 ==> Mark student present or absent using ag grid (using checkbox)
+STEP 10 ==> Dashboard cards
